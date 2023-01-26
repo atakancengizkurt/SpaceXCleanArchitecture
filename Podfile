@@ -8,6 +8,7 @@ target 'SpaceXCleanArchitecture' do
   # Pods for SpaceXCleanArchitecture
   
   pod 'Alamofire'
+  pod "KRProgressHUD"
 
   target 'SpaceXCleanArchitectureTests' do
     inherit! :search_paths
