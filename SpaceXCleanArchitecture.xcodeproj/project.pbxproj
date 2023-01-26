@@ -21,6 +21,7 @@
 		E8ECBF422982F9B8002E286A /* SpaceXCleanArchitectureUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E8ECBF412982F9B8002E286A /* SpaceXCleanArchitectureUITestsLaunchTests.swift */; };
 		E8ECBF4F2982FF04002E286A /* Constants.swift in Sources */ = {isa = PBXBuildFile; fileRef = E8ECBF4E2982FF04002E286A /* Constants.swift */; };
 		E8ECBF512982FFE0002E286A /* CNetworkRouter.swift in Sources */ = {isa = PBXBuildFile; fileRef = E8ECBF502982FFE0002E286A /* CNetworkRouter.swift */; };
+		E8ECBF5329830259002E286A /* CNetworkError.swift in Sources */ = {isa = PBXBuildFile; fileRef = E8ECBF5229830259002E286A /* CNetworkError.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -65,6 +66,7 @@
 		E8ECBF412982F9B8002E286A /* SpaceXCleanArchitectureUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SpaceXCleanArchitectureUITestsLaunchTests.swift; sourceTree = "<group>"; };
 		E8ECBF4E2982FF04002E286A /* Constants.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Constants.swift; sourceTree = "<group>"; };
 		E8ECBF502982FFE0002E286A /* CNetworkRouter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CNetworkRouter.swift; sourceTree = "<group>"; };
+		E8ECBF5229830259002E286A /* CNetworkError.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CNetworkError.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -142,6 +144,7 @@
 				E8ECBF2C2982F9B8002E286A /* Info.plist */,
 				E8ECBF4E2982FF04002E286A /* Constants.swift */,
 				E8ECBF502982FFE0002E286A /* CNetworkRouter.swift */,
+				E8ECBF5229830259002E286A /* CNetworkError.swift */,
 			);
 			path = SpaceXCleanArchitecture;
 			sourceTree = "<group>";
@@ -415,6 +418,7 @@
 				E8ECBF232982F9B7002E286A /* ViewController.swift in Sources */,
 				E8ECBF1F2982F9B7002E286A /* AppDelegate.swift in Sources */,
 				E8ECBF512982FFE0002E286A /* CNetworkRouter.swift in Sources */,
+				E8ECBF5329830259002E286A /* CNetworkError.swift in Sources */,
 				E8ECBF212982F9B7002E286A /* SceneDelegate.swift in Sources */,
 				E8ECBF4F2982FF04002E286A /* Constants.swift in Sources */,
 			);
