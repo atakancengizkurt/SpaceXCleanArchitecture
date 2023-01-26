@@ -22,6 +22,7 @@
 		E8ECBF4F2982FF04002E286A /* Constants.swift in Sources */ = {isa = PBXBuildFile; fileRef = E8ECBF4E2982FF04002E286A /* Constants.swift */; };
 		E8ECBF512982FFE0002E286A /* CNetworkRouter.swift in Sources */ = {isa = PBXBuildFile; fileRef = E8ECBF502982FFE0002E286A /* CNetworkRouter.swift */; };
 		E8ECBF5329830259002E286A /* CNetworkError.swift in Sources */ = {isa = PBXBuildFile; fileRef = E8ECBF5229830259002E286A /* CNetworkError.swift */; };
+		E8ECBF55298302DA002E286A /* CNetwork.swift in Sources */ = {isa = PBXBuildFile; fileRef = E8ECBF54298302DA002E286A /* CNetwork.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -67,6 +68,7 @@
 		E8ECBF4E2982FF04002E286A /* Constants.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Constants.swift; sourceTree = "<group>"; };
 		E8ECBF502982FFE0002E286A /* CNetworkRouter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CNetworkRouter.swift; sourceTree = "<group>"; };
 		E8ECBF5229830259002E286A /* CNetworkError.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CNetworkError.swift; sourceTree = "<group>"; };
+		E8ECBF54298302DA002E286A /* CNetwork.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CNetwork.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -145,6 +147,7 @@
 				E8ECBF4E2982FF04002E286A /* Constants.swift */,
 				E8ECBF502982FFE0002E286A /* CNetworkRouter.swift */,
 				E8ECBF5229830259002E286A /* CNetworkError.swift */,
+				E8ECBF54298302DA002E286A /* CNetwork.swift */,
 			);
 			path = SpaceXCleanArchitecture;
 			sourceTree = "<group>";
@@ -415,6 +418,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E8ECBF55298302DA002E286A /* CNetwork.swift in Sources */,
 				E8ECBF232982F9B7002E286A /* ViewController.swift in Sources */,
 				E8ECBF1F2982F9B7002E286A /* AppDelegate.swift in Sources */,
 				E8ECBF512982FFE0002E286A /* CNetworkRouter.swift in Sources */,
