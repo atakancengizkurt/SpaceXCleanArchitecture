@@ -20,6 +20,7 @@
 		E8ECBF402982F9B8002E286A /* SpaceXCleanArchitectureUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E8ECBF3F2982F9B8002E286A /* SpaceXCleanArchitectureUITests.swift */; };
 		E8ECBF422982F9B8002E286A /* SpaceXCleanArchitectureUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E8ECBF412982F9B8002E286A /* SpaceXCleanArchitectureUITestsLaunchTests.swift */; };
 		E8ECBF4F2982FF04002E286A /* Constants.swift in Sources */ = {isa = PBXBuildFile; fileRef = E8ECBF4E2982FF04002E286A /* Constants.swift */; };
+		E8ECBF512982FFE0002E286A /* CNetworkRouter.swift in Sources */ = {isa = PBXBuildFile; fileRef = E8ECBF502982FFE0002E286A /* CNetworkRouter.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -63,6 +64,7 @@
 		E8ECBF3F2982F9B8002E286A /* SpaceXCleanArchitectureUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SpaceXCleanArchitectureUITests.swift; sourceTree = "<group>"; };
 		E8ECBF412982F9B8002E286A /* SpaceXCleanArchitectureUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SpaceXCleanArchitectureUITestsLaunchTests.swift; sourceTree = "<group>"; };
 		E8ECBF4E2982FF04002E286A /* Constants.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Constants.swift; sourceTree = "<group>"; };
+		E8ECBF502982FFE0002E286A /* CNetworkRouter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CNetworkRouter.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -139,6 +141,7 @@
 				E8ECBF292982F9B8002E286A /* LaunchScreen.storyboard */,
 				E8ECBF2C2982F9B8002E286A /* Info.plist */,
 				E8ECBF4E2982FF04002E286A /* Constants.swift */,
+				E8ECBF502982FFE0002E286A /* CNetworkRouter.swift */,
 			);
 			path = SpaceXCleanArchitecture;
 			sourceTree = "<group>";
@@ -411,6 +414,7 @@
 			files = (
 				E8ECBF232982F9B7002E286A /* ViewController.swift in Sources */,
 				E8ECBF1F2982F9B7002E286A /* AppDelegate.swift in Sources */,
+				E8ECBF512982FFE0002E286A /* CNetworkRouter.swift in Sources */,
 				E8ECBF212982F9B7002E286A /* SceneDelegate.swift in Sources */,
 				E8ECBF4F2982FF04002E286A /* Constants.swift in Sources */,
 			);
